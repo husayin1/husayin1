@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# husayin1
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0074D9&random=false&width=435&lines=Hey%2C+This+is+Husayn%F0%9F%91%8B+;Mobile+App+Developer;ITI+Student;Native+Mobile+Devlopment;Computer+And+Informatics+Graduate;Suez+Canal+University" alt="Typing SVG" /></a>
 
